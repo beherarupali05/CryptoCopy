@@ -1,0 +1,12 @@
+.btn {
+    width: 380px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: darkcyan;
+    color: white;
+    font-weight: 500;
+}
+
+.btn-div {
+    text-align: center;
+}

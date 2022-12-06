@@ -1,0 +1,19 @@
+#borrowHeading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+
+.borrowInput {
+    text-align: center;
+}
+
+.Text {
+    width: 380px;
+    height: 50px;
+}
+.Text:focus{
+    background-color: lightskyblue;
+    border-color: blue;
+}
+ 

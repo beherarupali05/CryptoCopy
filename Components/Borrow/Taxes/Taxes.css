@@ -1,0 +1,17 @@
+#TaxHeading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+.taxInput{
+    width: 380px;
+    height: 50px;
+    border-radius: 40px;
+    border-style: none;
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+}
+#TaxInput{
+    text-align: center;
+}

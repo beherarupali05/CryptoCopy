@@ -1,0 +1,22 @@
+#ReachHeading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+/* .ReachInput{
+    border-radius: 40px;
+    border-style: none;
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+} */
+#ReachInput{
+    max-width: fit-content;
+    margin: auto;
+}
+.Reach{
+    font-weight: 500;
+}
+#continue{
+    font-weight: 700;
+}
